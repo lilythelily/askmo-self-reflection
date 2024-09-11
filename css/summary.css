@@ -94,7 +94,7 @@ h2 {
     color: #5d5d5d;
     width: 97px;
     height: 97px;
-    background-image: url('image/Ellipse 3.png');
+    background-image: url('../image/Ellipse 3.png');
     background-repeat: no-repeat;
     align-content: center;
     text-align: center;
@@ -108,7 +108,7 @@ h2 {
     color: #5d5d5d;
     width: 97px;
     height: 97px;
-    background-image: url('image/yellow.png');
+    background-image: url('../image/yellow.png');
     background-repeat: no-repeat;
     align-content: center;
     text-align: center;
@@ -122,7 +122,7 @@ h2 {
     color: #5d5d5d;
     width: 97px;
     height: 97px;
-    background-image: url('image/orange.png');
+    background-image: url('../image/orange.png');
     background-repeat: no-repeat;
     align-content: center;
     text-align: center;
